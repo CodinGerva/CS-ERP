@@ -1,42 +1,0 @@
-10
-90
-26
-10
-buono
-via mascagni 6
-180
-280
-5
-12
-pessimo
-via conforti 3
-360
-100
-27
-12
-rovinato
-via foscolo 1
-300
-200
-8
-24
-buono
-via Guicciardini 5
-470
-300
-4
-5
-buono
-via Macchiavelli 7
-120
-100
-12
-6
-rovinato
-via Alfieri 12
-23
-3
-6
-4
-wdwd
-dwdwdwd
