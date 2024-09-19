@@ -1,0 +1,24 @@
+150
+buono
+taglia erba
+120
+rovinato
+taglia siepi
+35
+buono
+cesoie
+20
+buono
+diserbante
+20
+pessimo
+fertilizzante
+25
+rovinato
+paletta
+40
+buono
+zappa
+50
+malmesso
+rastrello
